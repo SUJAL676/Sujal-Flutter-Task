@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "91925291947",
+    "firebase_url": "https://reelapp-acab6-default-rtdb.firebaseio.com",
+    "project_id": "reelapp-acab6",
+    "storage_bucket": "reelapp-acab6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91925291947:android:2be1ec9bf177cc649128ee",
+        "android_client_info": {
+          "package_name": "com.example.flutter_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEIJpj9BDypaDVHrO5ft54auJ5tAYOQwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
